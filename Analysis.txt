@@ -1,0 +1,19 @@
+Task 0 - O(1)
+Always gonna take the same amount of time.
+
+Task 1 - O(n^2)
+Iteration, for i in list
+Containment operaiton x in/not in list
+
+Task 2 - O(n)
+Iteration, for i in list 
+
+Task 3 - O(n^2)
+Containment operaiton x in/not in list
+Sort the list
+
+Task 4 - O(n^2)
+Containment operaiton x in/not in list
+Iteration, for i in list 
+
+n means the length of input. 
